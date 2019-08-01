@@ -1,0 +1,7 @@
+app:
+  name: Sample App 2000
+console:
+  showGraphics: true
+logging:
+  maxSizeInMb: 50
+  maxAgeInDays: 1
